@@ -32,3 +32,6 @@
 **Deployment completed and access the website with highlighted marked in image**
 
 ![amplify-deploy](https://github.com/user-attachments/assets/e60ea789-1560-4c4f-aaeb-43afa7951a74)
+
+![Screenshot 2024-10-19 131442](https://github.com/user-attachments/assets/9e890aad-a396-4588-9afb-f77cdaa28e8f)
+
